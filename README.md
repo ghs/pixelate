@@ -20,7 +20,7 @@ Since this is a Golang application, you will need to have Golang installed on yo
 
 The program is executed from the command line. The following command shows the usage with required arguments:
 
-`go run . -source_image_path <SOURCE_IMAGE_PATH> -output_image_path <OUTPUT_IMAGE_PATH> -block_size <BLOCK_SIZE>`
+`go run . -source-image-path <SOURCE_IMAGE_PATH> -output-image-path <OUTPUT_IMAGE_PATH> -block-size <BLOCK_SIZE>`
 
 #### Arguments
 
